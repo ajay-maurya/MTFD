@@ -52,5 +52,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-This README.md file reflects the updated script with method-level comments and includes example usage, author information, and a description of the script's features.
