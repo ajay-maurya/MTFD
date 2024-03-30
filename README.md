@@ -3,9 +3,6 @@
 This script allows you to download large files in parallel chunks using multiple threads, maximizing bandwidth utilization. 
 The downloaded chunks are merged into a single file. Progress bars are displayed for each thread and overall progress.
 
-Author: Ajaykumar Maurya  
-Date: April 4, 2024  
-
 ## Features
 
 - Download files in parallel using multiple threads
