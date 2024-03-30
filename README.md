@@ -30,10 +30,10 @@ pip install requests tqdm psutil
 
 ## Usage
 
-Run the `download_file_in_chunks.py` script and provide the URL of the file to download along with the desired save path:
+Run the `downloader.py` script and provide the URL of the file to download along with the desired save path:
 
 ```bash
-python download_file_in_chunks.py --url <file_url> --save_path <save_path> [--num_threads <num_threads>]
+python downloader.py --url <file_url> --save_path <save_path> [--num_threads <num_threads>]
 ```
 
 Replace `<file_url>` with the URL of the file you want to download, `<save_path>` with the path where you want to save the downloaded file, and `<num_threads>` with the number of threads to use for downloading (optional, default is the number of CPU cores).
